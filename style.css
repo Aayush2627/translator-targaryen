@@ -1,0 +1,22 @@
+html{
+    background-image:url(img2.jpg );
+    background-size: 100% auto;
+   
+}
+body{
+    text-align: center;
+    font-family: cursive;
+  
+}
+textarea{
+    padding:1rem;
+    width:25rem;
+    background-color: transparent;
+}
+div{
+    -webkit-text-fill-color: aliceblue;
+}
+button{
+    background-color: transparent;
+    -webkit-text-fill-color: aliceblue;
+}
