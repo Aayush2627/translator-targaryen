@@ -12,6 +12,7 @@ textarea{
     padding:1rem;
     width:25rem;
     background-color: transparent;
+    -webkit-text-fill-color: white;
 }
 div{
     -webkit-text-fill-color: aliceblue;
